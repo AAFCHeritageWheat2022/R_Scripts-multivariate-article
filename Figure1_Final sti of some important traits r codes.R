@@ -103,7 +103,7 @@ save_publication_formats <- function(plot_obj, base_name, width = 12, height = 6
   cat("Saved:", jpeg_filename, "\n")
 }
 
-setwd("/Users/subarnasharma/Desktop/Chapter1 all related in one/v5 article ready for submission/codes redraw figures")
+setwd()
 getwd()
 
 library(ggplot2)
