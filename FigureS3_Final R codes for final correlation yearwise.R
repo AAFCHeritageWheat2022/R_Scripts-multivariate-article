@@ -1,5 +1,5 @@
 
-setwd("/Users/subarnasharma/Desktop/Chapter1 all related in one/v5 article ready for submission/codes redraw figures")
+setwd()
 getwd()
 
 library(corrplot)
